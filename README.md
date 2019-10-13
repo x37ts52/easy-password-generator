@@ -2,7 +2,7 @@
 
 ## What is this?
 
-The easy-password-generator generate simple passwords with a self choosen length and self choosen compination of digits and characters
+The easy-password-generator generate simple passwords with a self choosen length and self choosen combination of digits and characters
 
 ## Install
 
