@@ -12,7 +12,7 @@ const options = {
 }
 
 // fire the object with the function
-const password = easyPasswordGenerator.letterLength(options)
+const password = easyPasswordGenerator(options)
 
 // console output for testing: boolean
 console.log(password)

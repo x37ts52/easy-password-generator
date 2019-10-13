@@ -1,7 +1,5 @@
-const easyPasswordGenerator = () => {}
-
 // function: password with specified letter length to generate
-const letterLength = options => {
+const easyPasswordGenerator = options => {
   const numbers = '0123456789'
   const charactersUpperCase = 'ABCDEFGHIJKLMNOPQRSTUVW'
   const charactersLowerCase = 'abcdefghijklmnopqrstuvw'
@@ -71,4 +69,3 @@ const letterLength = options => {
 }
 
 module.exports = easyPasswordGenerator
-module.exports.letterLength = letterLength
