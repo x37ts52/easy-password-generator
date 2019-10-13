@@ -1,0 +1,20 @@
+{
+  "name": "easy-password-generator",
+  "version": "0.0.1",
+  "description": "desc",
+  "main": "easy-password-generator.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x37ts52/easy-password-generator.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "x37ts52",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x37ts52/easy-password-generator/issues"
+  },
+  "homepage": "https://github.com/x37ts52/easy-password-generator#readme"
+}
