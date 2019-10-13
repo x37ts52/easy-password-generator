@@ -1,7 +1,7 @@
 {
   "name": "easy-password-generator",
-  "version": "0.0.2",
-  "description": "desc",
+  "version": "0.0.3",
+  "description": "The easy-password-generator generate simple passwords with a self choosen length and self choosen combination of digits and characters",
   "main": "easy-password-generator.js",
   "repository": {
     "type": "git",
